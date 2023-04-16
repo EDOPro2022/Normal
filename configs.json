@@ -28,8 +28,12 @@
 		}
 	],
 	"urls": [
-		{
+	{
 			"url": "https://arab-duelists.com/assets/img/cards/{}.jpg",
+			"type": "pic"
+		},
+		{
+			"url": "default",
 			"type": "pic"
 		},
 		{
